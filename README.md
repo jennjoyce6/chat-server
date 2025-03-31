@@ -1,1 +1,1 @@
-"# chat-server" 
+"An exploration of using the microservices architecture to build a chat application, furnished with real-time chat and notification abilities. Node.js, RabbitMQ, Nginx, and Docker were used for deploying microservices."
